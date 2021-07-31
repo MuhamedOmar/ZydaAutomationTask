@@ -9,6 +9,6 @@
 ## The project structure .
 + The project was designed by POM moduel.
 + Every page have a classpage.jave.
-+ there are two test classes including the related test cases. 
++ There are two test classes including the related test cases "UserLoginTest.java". 
 ## Technical discription. 
 * The project is developed by using (intellij IDE- selenium webdriver- TestNG- Maven).
