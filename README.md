@@ -1,5 +1,5 @@
 # Zyda Automation Task 
-## Created By : Mohamed Omar
+## Created By : Muhamed Omar
 #### Requirments : Select 2 items then proceed to checkout then confirm order from [link](http://automationpractice.com/index.php)	
 *Senarios : 
 + Login with already created account.
