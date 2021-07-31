@@ -6,7 +6,7 @@
 + Go to dresses tab then choose two dresses 
 + Add items to cart , proceed to checkout then place the order
 
-## The project structur .
+## The project structure .
 + The project was designed by POM moduel.
 + Every page have a classpage.jave.
 + there are two test classes including the related test cases. 
