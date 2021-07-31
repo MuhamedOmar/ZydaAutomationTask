@@ -7,8 +7,8 @@
 + Add items to cart , proceed to checkout then place the order
 
 ## The project structure .
-+ The project was designed by POM moduel.
-+ Every page have a classpage.jave.
++ The project was designed by POM .
++ Every page have a classpage.java .
 + There are two test classes including the related test cases in "UserLoginTest.java". 
 ## Technical discription. 
 * The project is developed by using (intellij IDE- selenium webdriver- TestNG- Maven).
