@@ -1,7 +1,7 @@
 # Zyda Automation Task 
 ## Created By : Muhamed Omar
 #### Requirments : Select 2 items then proceed to checkout then confirm order from [link](http://automationpractice.com/index.php)	
-*Senarios : 
+*Scenarios : 
 + Login with already created account.
 + Go to dresses tab then choose two dresses 
 + Add items to cart , proceed to checkout then place the order
